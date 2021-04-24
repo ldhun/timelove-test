@@ -1,3 +1,10 @@
+body{
+    position: relative;
+    background: #D9EC9D;
+    border: 3px dashed #C3DE6E;
+    border-radius: 60px;
+    border-width: 100%; 
+}
 article{
     display : flex;
     flex-direction: column;
